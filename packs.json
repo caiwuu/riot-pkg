@@ -1,4 +1,16 @@
 {
   "schemaVersion": 1,
-  "packs": {}
+  "packs": {
+    "doc-runtime": {
+      "version": "0.1.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/caiwuu/riot-pkg/releases/download/doc-runtime-v0.1.0/doc-runtime-0.1.0-darwin-arm64.tar.zst",
+          "sha256": "210800deea6106fda804a4a942d42dcd956ac03d4f6df48a9b25430e2540f2b2",
+          "size": 246041660,
+          "installedSize": 941187072
+        }
+      }
+    }
+  }
 }
