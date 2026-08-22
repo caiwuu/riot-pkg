@@ -1,0 +1,16 @@
+{
+    "schemaVersion":  1,
+    "packs":  {
+                  "doc-runtime":  {
+                                      "version":  "0.1.0",
+                                      "platforms":  {
+                                                        "win-x64":  {
+                                                                        "url":  "https://github.com/caiwuu/riot-pkg/releases/download/doc-runtime-v0.1.0/doc-runtime-0.1.0-win-x64.tar.zst",
+                                                                        "sha256":  "66e1e7ffcbe487f12e1877a34accefcd7e360fd91a57071e424525fc3095a045",
+                                                                        "size":  301176778,
+                                                                        "installedSize":  1079930648
+                                                                    }
+                                                    }
+                                  }
+              }
+}
